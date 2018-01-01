@@ -1,0 +1,9 @@
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\bin\Debug\Aplikasi Penghitung Persamaan Linear.exe.config
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\bin\Debug\Aplikasi Penghitung Persamaan Linear.exe
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\bin\Debug\Aplikasi Penghitung Persamaan Linear.pdb
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi Penghitung Persamaan Linear.csprojResolveAssemblyReference.cache
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi_Penghitung_Persamaan_Linear.Form1.resources
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi_Penghitung_Persamaan_Linear.Properties.Resources.resources
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi Penghitung Persamaan Linear.csproj.GenerateResource.Cache
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi Penghitung Persamaan Linear.exe
+c:\users\ramdan\documents\visual studio 2017\Projects\Aplikasi Penghitung Persamaan Linear\Aplikasi Penghitung Persamaan Linear\obj\Debug\Aplikasi Penghitung Persamaan Linear.pdb
